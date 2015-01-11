@@ -1,1 +1,1 @@
-# python_mapreduce_trial
+Trying MapReduce in Python
